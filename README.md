@@ -1,8 +1,6 @@
 Litefork Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
-
 https://litefork.org
 
 What is Litefork?
@@ -10,11 +8,13 @@ What is Litefork?
 
 Litefork is an experimental fork of Litecoin experimental digital currency that enables experimental instant payments to anyone, anywhere in the world and in the galaxy.
 
+Litefork is inspired by The Cypherpunk True Vision.
+
 Litefork use EquiHash Proof-of-Work with N=144 and K=5 parameters to decentralize mining.
 Mine only using CPU and GPU.
 
 For more information, as well as an immediately useable, binary version of
-the Litecoin Core software, see [https://litefork.org](https://litefork.org).
+the Litefork Core software, see [https://litefork.org](https://litefork.org).
 
 Features
 --------
@@ -25,7 +25,8 @@ Features
 - Replay protection: You can’t accidentally spend your litecoin when you mean to spend Litefork or vice versa.
 - Lightning Network ready on Litefork chain.
 - Mine Litefork instead of Bitcoin Gold
-- Claim your Litefork coins from your litecoin wallet and HODL!
+- Claim your Litefork coins from your litecoin wallet and HODL! 
+- Best is coming.
 
 License
 -------
